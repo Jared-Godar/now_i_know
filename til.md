@@ -8,4 +8,4 @@
 2021-09-27: SQL subqueries and temp tables. Able to creat a table of common joins for use without joining every time. 
 2021-09-28: SQL Conditional Logic: Case and If statments
 2021-09-29: More SQL; First VA doctor's appointment - went well.
-2021-09-30: 
+2021-09-30: Install anaconda and set up python environment, jupyter notbooks, why python
