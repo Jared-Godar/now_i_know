@@ -11,4 +11,5 @@
 2021-09-30: Install anaconda and set up python environment, jupyter notbooks, why python
 2021-10-01: Python data types
 2021-10-02: HEB Texas sriracha is not as hot as regular sriracha
-2021-10-03: 
+2021-10-03: Some good stuff from the Lubanociv Introducing Python book. Basics on data types. Getting into programming and loops.
+2021-10-04
