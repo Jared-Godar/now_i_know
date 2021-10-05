@@ -12,4 +12,5 @@
 2021-10-01: Python data types
 2021-10-02: HEB Texas sriracha is not as hot as regular sriracha
 2021-10-03: Some good stuff from the Lubanociv Introducing Python book. Basics on data types. Getting into programming and loops.
-2021-10-04
+2021-10-04: Finally figured out the syntax and what is going on for list comprehensions.
+2021-10-05:
