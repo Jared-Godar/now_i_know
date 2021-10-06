@@ -13,4 +13,5 @@
 2021-10-02: HEB Texas sriracha is not as hot as regular sriracha
 2021-10-03: Some good stuff from the Lubanociv Introducing Python book. Basics on data types. Getting into programming and loops.
 2021-10-04: Finally figured out the syntax and what is going on for list comprehensions.
-2021-10-05:
+2021-10-05: I learned I can use the developer tools in the broweser to display the encoding of formatted exercise questions to copy and paste into jupyter notebooks for minimal effor, pretty formatting
+2021-10-06:
