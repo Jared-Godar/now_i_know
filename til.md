@@ -15,3 +15,5 @@
 2021-10-04: Finally figured out the syntax and what is going on for list comprehensions.
 2021-10-05: I learned I can use the developer tools in the broweser to display the encoding of formatted exercise questions to copy and paste into jupyter notebooks for minimal effor, pretty formatting
 2021-10-06: More python functions, loops, etc
+2021-10-07: Import functions, make my own functions, JSON
+2021-10-08:
