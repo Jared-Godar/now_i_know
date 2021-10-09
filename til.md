@@ -16,4 +16,4 @@
 2021-10-05: I learned I can use the developer tools in the broweser to display the encoding of formatted exercise questions to copy and paste into jupyter notebooks for minimal effor, pretty formatting
 2021-10-06: More python functions, loops, etc
 2021-10-07: Import functions, make my own functions, JSON
-2021-10-08:
+2021-10-08: Starting data visualization - looking forward to more of this
