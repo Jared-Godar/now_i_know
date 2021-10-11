@@ -35,3 +35,9 @@
 > 2021-10-07: Import functions, make my own functions, JSON
 
 > 2021-10-08: Starting data visualization - looking forward to more of this
+
+>2021-10-09: There is no such thing as a big enough lead against Oklahoma in the Red River Shootout
+
+>2021-10-10: Home Depot has very limited sellection currently and wood is all kinds of expensive. A single 4'x8' sheet of shitty plywood costs more ($90) than UV lamintate maple ply usually does.
+
+>2021-10-11:
