@@ -41,3 +41,6 @@
 >2021-10-10: Home Depot has very limited sellection currently and wood is all kinds of expensive. A single 4'x8' sheet of shitty plywood costs more ($90) than UV lamintate maple ply usually does.
 
 >2021-10-11: When measuring the witdth of a nook for cabinets, be sure to check the entire heeight where the cabinets will go and be mindful you may have to remove existing trim to get the cabinet in place
+
+>2021-10-12: Numpy. Wow. Seems very powerful from the get go just scratching the surface. Wish I knew how this worked when I was doing my 101 exercises.
+
