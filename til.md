@@ -45,3 +45,5 @@
 >2021-10-12: Numpy. Wow. Seems very powerful from the get go just scratching the surface. Wish I knew how this worked when I was doing my 101 exercises.
 
 >2021-10-13: Still blown away by how simple and condensed this makes things that took loops in python. And to hear that pandas is even better than numpy - can't wait
+
+>2021-10-04: PANDAS - scratching the surface but seems powerful. Like the quick plots
