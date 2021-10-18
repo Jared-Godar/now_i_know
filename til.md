@@ -46,7 +46,10 @@
 
 >2021-10-13: Still blown away by how simple and condensed this makes things that took loops in python. And to hear that pandas is even better than numpy - can't wait
 
->2021-10-04: PANDAS - scratching the surface but seems powerful. Like the quick plots
+>2021-10-14: PANDAS - scratching the surface but seems powerful. Like the quick plots
 
->2021-10-05: DataFrames. From the very beginning og this whole enterprise and the limited self-training I have appempted in the past is - how the hell are we going to use python to keep track of 'big data' when lists of dictionaries was all I knew. Now I can see it with the DataFrames
+>2021-10-15: DataFrames. From the very beginning og this whole enterprise and the limited self-training I have appempted in the past is - how the hell are we going to use python to keep track of 'big data' when lists of dictionaries was all I knew. Now I can see it with the DataFrames
 
+>2021-10-16: I learned there is no such thing as a comfortable UT football lead this season
+
+>2021-10-17: 
