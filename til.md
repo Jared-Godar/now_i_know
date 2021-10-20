@@ -53,3 +53,9 @@
 >2021-10-16: I learned there is no such thing as a comfortable UT football lead this season
 
 >2021-10-17: 
+
+>2021-10-18:PANDAS - good stuff
+
+>2021-10-19: Pivot tables in PANDAS. Can see the use and power of this technique, but the syntax hasn't exatly 'clicked' yet. 
+
+>2021-10-20:
