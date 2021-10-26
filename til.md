@@ -62,10 +62,10 @@
 
 >2021-10-21:
 
->2021-10-22:
+>2021-10-22: I learned some Python / pandas these last few weeks
 
->2021-10-23:
+>2021-10-23: Commute from Helotes to Codeup is managable
 
->2021-10-24:
+>2021-10-24: tiny, enxtednded stay rooms in SA are overpriced
 
 >2021-10-25: Evaluating good and bad graphs
