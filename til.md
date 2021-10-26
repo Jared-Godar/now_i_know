@@ -59,3 +59,13 @@
 >2021-10-19: Pivot tables in PANDAS. Can see the use and power of this technique, but the syntax hasn't exatly 'clicked' yet. 
 
 >2021-10-20:
+
+>2021-10-21:
+
+>2021-10-22:
+
+>2021-10-23:
+
+>2021-10-24:
+
+>2021-10-25: Evaluating good and bad graphs
