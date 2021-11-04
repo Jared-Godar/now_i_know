@@ -69,3 +69,23 @@
 >2021-10-24: tiny, enxtednded stay rooms in SA are overpriced
 
 >2021-10-25: Evaluating good and bad graphs
+
+>2021-10-26:
+
+>2021-10-27:
+
+>2021-10-28:
+
+>2021-10-29:
+
+>2021-10-30:
+
+>2021-10-31:
+
+>2021-11-01:
+
+>2021-11-02:
+
+>2021-11-03: Using python to calculate distributions. And simulations for approximating statistical events.
+
+>2021-11-04:
