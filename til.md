@@ -88,4 +88,6 @@
 
 >2021-11-03: Using python to calculate distributions. And simulations for approximating statistical events.
 
->2021-11-04:
+>2021-11-04: Hypothesis testing in python scipi - good stuff, really easy code.
+
+>2021-11-05:
