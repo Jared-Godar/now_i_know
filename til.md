@@ -84,10 +84,18 @@
 
 >2021-11-01:
 
->2021-11-02:
+>2021-11-02: The judge's material turn-in post-election is insane. 10+ lanes with 3 tents each and over 700 judges coming in from all over the county
 
 >2021-11-03: Using python to calculate distributions. And simulations for approximating statistical events.
 
 >2021-11-04: Hypothesis testing in python scipi - good stuff, really easy code.
 
->2021-11-05:
+>2021-11-05: There's a dog park with full restaurant and bar and live music in town.
+
+>2021-11-06: 
+
+>2021-11-07: 
+
+>2021-11-08: Chi^2 - membership testing
+
+>2021-11-09: Classification
