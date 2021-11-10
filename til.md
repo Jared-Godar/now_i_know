@@ -98,4 +98,6 @@
 
 >2021-11-08: Chi^2 - membership testing
 
->2021-11-09: Classification
+>2021-11-09: Classification overview / acquire data
+
+>2021-11-10: Cleaning data for machine learning
