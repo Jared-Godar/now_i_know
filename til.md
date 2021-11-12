@@ -101,3 +101,7 @@
 >2021-11-09: Classification overview / acquire data
 
 >2021-11-10: Cleaning data for machine learning
+
+>2021-11-11: Lerned of several local restaurants that do 20% off every day for veterans
+
+>2021-11-12:
