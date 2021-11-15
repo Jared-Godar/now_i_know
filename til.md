@@ -104,4 +104,10 @@
 
 >2021-11-11: Lerned of several local restaurants that do 20% off every day for veterans
 
->2021-11-12:
+>2021-11-12: Exploratory Data Analysis - good ideas for what to do when. BVe mindful to only do a deep dibve on the training set after splitting data
+
+>2021-11-13: Finally tried libve / cut bait instead of artificial lures and it worked better
+
+>2021-11-14: BVarkleys dog park does a pretty good job and is a nice place to get work done
+
+>2021-11-15:
