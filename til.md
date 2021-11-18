@@ -110,4 +110,11 @@
 
 >2021-11-14: BVarkleys dog park does a pretty good job and is a nice place to get work done
 
->2021-11-15:
+>2021-11-15: Tidy Data - melt; Continued Exploratory Data Analysis. Get good at sns.
+
+
+>2021-11-16: Model evailation, confusion matrix; accuracy, precision, recall/sensitivity, specificity. F1, AOROC
+
+>2021-11-17: More model evaluation, decision trees
+
+>2021-11-18: 
