@@ -117,4 +117,12 @@
 
 >2021-11-17: More model evaluation, decision trees
 
->2021-11-18: 
+>2021-11-18: Decision tree / random forrest
+
+>2021-11-19: K nearest neighbors, logistic regression 
+
+>2021-11-20: 
+
+>2021-11-21: 
+
+>2021-11-22: 
