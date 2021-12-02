@@ -142,3 +142,7 @@
 >2021-11-29: 
 
 >2021-11-30: Linear regression
+
+>2021-12-01: More linear regression, data cleaning.
+
+>2021-12-02:
