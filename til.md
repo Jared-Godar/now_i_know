@@ -145,4 +145,6 @@
 
 >2021-12-01: More linear regression, data cleaning.
 
->2021-12-02:
+>2021-12-02: Scaling
+
+> 2021-12-03: 
