@@ -147,4 +147,10 @@
 
 >2021-12-02: Scaling
 
-> 2021-12-03: 
+> 2021-12-03: You can go to the park to work even when you don't have an appointment nearby
+
+> 2021-12-04: Bike on lightrail is a good way to get around.
+
+> 2021-12-05: Homemade French Onion Soup is still worth the work and wait.
+
+> 2021-12-06: I'm still COVID-free, via PCR (Sore throat & cough something else) 
