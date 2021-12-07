@@ -154,3 +154,5 @@
 > 2021-12-05: Homemade French Onion Soup is still worth the work and wait.
 
 > 2021-12-06: I'm still COVID-free, via PCR (Sore throat & cough something else) 
+
+> 2021-12-07: Evaluating regression. RMSD, R^2, etc.
