@@ -156,3 +156,24 @@
 > 2021-12-06: I'm still COVID-free, via PCR (Sore throat & cough something else) 
 
 > 2021-12-07: Evaluating regression. RMSD, R^2, etc.
+
+>2021-12-08: 
+
+>2021-12-09: 
+
+>2021-12-10: 
+
+>2021-12-11: 
+
+>2021-12-12: 
+
+>2021-12-13: 
+
+>2021-12-14: 
+
+>2021-12-15: 
+
+>2021-12-16: Clustering
+
+>2021-12-17: Explore mitosheets more
+
